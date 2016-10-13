@@ -9,6 +9,9 @@
 hs_err_pid*
 target
 
+*.iml
+*.ipr
+*.iws
 
 .project
 .idea
